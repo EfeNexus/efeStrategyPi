@@ -1,4 +1,4 @@
-# Welcome to efeStrategyPi 🧠✨
+# Welcome to efeStrategy Pi 🧠
 
 Where strategy meets code and brilliance takes flight! Powered by **Efe Nexus Pi**, this is the hub for crafting clever solutions, mastering challenges, and turning bold ideas into reality. I’m `@efeStrategy`, and I’m excited to have you join the journey.
 
